@@ -15,7 +15,7 @@ dependencies {
     implementation 'org.springframework:spring-webmvc:6.0.4'
 
     //내장 톰켓 추가
-    implementation 'org.apache.tomcat.embed:tomcat-embed-core:10.1.5'
+    implementation 'org.apache.tomcat.embed:tomcat-embed-core:10.1.7'
 }
 
 tasks.named('test') {
